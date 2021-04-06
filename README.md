@@ -5,6 +5,7 @@ I am a motivated and diligent software developer. I have worked on building scal
 Also, I engage myself in helping the community by writing blogs and organizing workshops. Feel free to connect and start a conversation.
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/ar-verma/)
+[![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat&logo=hackerrank&logoColor=white&color=40b000)](https://www.hackerrank.com/aman_ranjanverma)
 
 ## 📝 Latest Blog Posts
 
