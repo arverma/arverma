@@ -2,7 +2,7 @@ Hey there 👋
 
 I am a motivated and diligent software developer. I have worked on building scalable ETL pipelines, serverless applications to run containerized Python and Spark jobs, and solutions to productionize machine learning codes hassle-free for data scientists. I have worked with cross-functional teams and clients within US markets implementing solutions in the food and marketing industry.
 
-Also, I engage myself in helping the community by writing blogs and organizing workshops. Feel free to connect and start a conversation.
+I also engage myself in helping the community by writing technical blogs and organizing workshops. Feel free to connect and start a conversation.
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/ar-verma/)
 [![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat&logo=hackerrank&logoColor=white&color=40b000)](https://www.hackerrank.com/aman_ranjanverma)
