@@ -1,6 +1,6 @@
 Hey there 👋
 
-I am a motivated and diligent software developer. I have worked on building scalable ETL pipelines, serverless applications to run containerized Python and Spark jobs. I have provided solutions to productionize machine learning models hassle-free for data scientists. I have worked with cross-functional teams and clients within US markets implementing solutions in the food, marketing, semiconductor industry.
+I am a Data Engineer. I have worked on building scalable ETL pipelines, serverless applications to run containerized Python and Spark jobs. I have provided solutions to productionize machine learning models hassle-free for data scientists. I have worked with cross-functional teams and clients within US markets implementing solutions in the food, marketing, semiconductor industry.
 
 I also engage myself in helping the community by writing technical blogs and organizing workshops. Feel free to connect and start a conversation.
 
