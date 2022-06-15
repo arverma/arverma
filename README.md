@@ -12,12 +12,10 @@ SKILLS: `Python` `PySpark` `AWS Cloud` `Linux` `SQl` `Git` `Data Structure & Alg
 
 ## 📝 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-- [Load and Unload Data to and from Redshift in Glue](https://medium.com/towards-data-engineering/load-and-unload-data-to-redshift-in-glue-69a20859aead)
-- [Solutions to AWS Glue Errors](https://medium.com/towards-data-engineering/solutions-to-aws-glue-errors-21be806eddd6)
-- [Query Redshift from PowerBI using SQL](https://medium.com/towards-data-engineering/query-redshift-from-powerbi-using-sql-6f18aef967c7)
-- [CloudFormation Template for SQS with Lambda Triggers](https://medium.com/towards-data-engineering/sqs-lambda-triggers-cloudformation-template-900999a01de5)
-- [Join tables in seconds](https://medium.com/towards-data-engineering/joins-in-seconds-tables-887a931732c1)
-<!-- BLOG-POST-LIST:END -->
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@amanranjanverma/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@amanranjanverma/0" alt="Recent Article 0"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@amanranjanverma/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@amanranjanverma/1" alt="Recent Article 1"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@amanranjanverma/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@amanranjanverma/2" alt="Recent Article 2"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@amanranjanverma/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@amanranjanverma/3" alt="Recent Article 3"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@amanranjanverma/4"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@amanranjanverma/4" alt="Recent Article 4"> 
 
-Want to read more of my blogs? [Check out my medium profile](https://medium.com/@amanranjanverma)
+[View all](https://medium.com/@amanranjanverma)
