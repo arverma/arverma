@@ -1,6 +1,6 @@
-Hey there 👋
+Hey 👋 ![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=octocat.Spoon-Knife)
 
-I am a Data Engineer. I have worked on building scalable ETL pipelines, serverless applications to run containerized Python and Spark jobs. I have provided solutions to productionize machine learning models hassle-free for data scientists. I have worked with cross-functional teams and clients within US markets implementing solutions in the food, marketing, semiconductor industry.
+I am Aman Ranjan Verma. I have more than 3 years of experience working as a Data Engineer. I build scalable pipelines for generating insights, features, and scores that handle data at the scale of millions of people.
 
 I also engage myself in helping the community by writing technical blogs and organizing workshops. Feel free to connect and start a conversation.
 
