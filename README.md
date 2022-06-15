@@ -1,4 +1,4 @@
-Hey ![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=octocat.Spoon-Knife)
+Hey 🙏 ![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=octocat.Spoon-Knife)
 
 I am Aman Ranjan Verma. I have more than 3 years of experience working as a Data Engineer. I build scalable pipelines for generating insights, features, and scores that handle data at the scale of millions of people.
 
