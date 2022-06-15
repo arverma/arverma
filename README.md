@@ -19,3 +19,5 @@ SKILLS: `Python` `PySpark` `AWS Cloud` `Linux` `SQl` `Git` `Data Structure & Alg
     https://medium.com/@amanranjanverma
    </p>
  </details>
+      
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arverma&show_icons=true&locale=en&layout=compact" alt="arverma" /></p> -->
