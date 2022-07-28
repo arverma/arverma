@@ -24,5 +24,6 @@ SKILLS: `Python` `PySpark` `AWS Cloud` `Linux` `SQl` `Git` `Data Structure & Alg
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arverma&show_icons=true&locale=en&layout=compact" alt="arverma" /></p> -->
 
 <a href="https://www.hackerrank.com/aman_ranjanverma?hr_r=1">
-  <img width="700" alt="image" src="https://user-images.githubusercontent.com/24602870/181502672-a3a9709f-2633-473b-808b-d1cf8b747340.png">
+  <img width="700" alt="HackerRank" src="https://user-images.githubusercontent.com/24602870/181543880-c88b68a7-180c-4941-91ca-5b99d93c4652.png">
 </a>
+
