@@ -1,4 +1,4 @@
-Hey 🙏 ![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=octocat.Spoon-Knife)
+Hey 🙏 
 
 I am Aman Ranjan Verma. I have more than 3 years of experience working as a Data Engineer. I build scalable pipelines for generating insights, features, and scores that handle data at the scale of millions of people.
 
@@ -9,6 +9,7 @@ SKILLS: `Python` `PySpark` `AWS Cloud` `Linux` `SQl` `Git` `Data Structure & Alg
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/ar-verma/)
 [![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat&logo=hackerrank&logoColor=white&color=40b000)](https://www.hackerrank.com/aman_ranjanverma)
 [![Github Gist](https://img.shields.io/badge/github-gist-lightgrey)](https://gist.github.com/arverma)
+![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=octocat.Spoon-Knife)
 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@amanranjanverma) 
 <details><summary>Latest Blog Posts </summary>
@@ -21,3 +22,7 @@ SKILLS: `Python` `PySpark` `AWS Cloud` `Linux` `SQl` `Git` `Data Structure & Alg
  </details>
       
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arverma&show_icons=true&locale=en&layout=compact" alt="arverma" /></p> -->
+
+<a href="https://www.hackerrank.com/aman_ranjanverma?hr_r=1">
+  <img width="700" alt="image" src="https://user-images.githubusercontent.com/24602870/181502672-a3a9709f-2633-473b-808b-d1cf8b747340.png">
+</a>
