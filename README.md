@@ -11,8 +11,8 @@ SKILLS: `Python` `PySpark` `AWS Cloud` `Linux` `SQl` `Git` `Data Structure & Alg
 [![Github Gist](https://img.shields.io/badge/github-gist-lightgrey)](https://gist.github.com/arverma)
 ![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=octocat.Spoon-Knife)
 
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@amanranjanverma) 
-<details><summary>Latest Blog Posts </summary>
+
+<details><summary>[MEDIUM] Blog Posts </summary>
   <p>
     <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@amanranjanverma/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@amanranjanverma/0" alt="Recent Article 0"> 
     <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@amanranjanverma/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@amanranjanverma/1" alt="Recent Article 1"> 
