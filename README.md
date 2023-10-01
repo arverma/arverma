@@ -9,7 +9,6 @@ SKILLS: `Python` `PySpark` `AWS Cloud` `Linux` `SQl` `Git` `Data Structure & Alg
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/ar-verma/)
 [![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat&logo=hackerrank&logoColor=white&color=40b000)](https://www.hackerrank.com/aman_ranjanverma)
 [![Github Gist](https://img.shields.io/badge/github-gist-lightgrey)](https://gist.github.com/arverma)
-![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=octocat.Spoon-Knife)
 [![Visitor count](https://img.shields.io/badge/Homepage-Resume-blue)](https://sites.google.com/view/arverma/home)
 
 
