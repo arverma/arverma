@@ -20,12 +20,11 @@ SKILLS: `Python` `SQL` `Spark` `Airflow` `DBT` `ETL/ELT` `Streaming` `Iceberg` `
 [![Visitor count](https://img.shields.io/badge/Homepage-Resume-blue)](https://sites.google.com/view/arverma/home)
 
 
-<details><summary>[MEDIUM] Blog Posts </summary>
+<details><summary><b>[MEDIUM] Blog Posts </b></summary>
   <p>
     <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@amanranjanverma/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@amanranjanverma/0" alt="Recent Article 0"> 
     <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@amanranjanverma/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@amanranjanverma/1" alt="Recent Article 1"> 
-    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@amanranjanverma/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@amanranjanverma/2" alt="Recent Article 2"> 
-    https://medium.com/@amanranjanverma
+    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@amanranjanverma/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@amanranjanverma/2" alt="Recent Article 2">
    </p>
  </details>
 
