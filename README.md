@@ -1,10 +1,19 @@
 Hey 🙏 
 
-I am Aman Ranjan Verma. I have more than 4 years of experience working as a Data Engineer. I build scalable pipelines for generating insights, features, and scores that handle data at the scale of millions of people.
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=0D76A8&width=820&lines=Senior+Data+Engineer+%40+QuillBot+(Ex-Flipkart%2C+Ex-Sigmoid);Building+data+platforms+for+millions+of+users;Spark+%7C+Airflow+%7C+DBT+%7C+Iceberg+%7C+Streaming)](https://github.com/DenverCoder1/readme-typing-svg)
 
-I also engage myself in helping the community by writing technical blogs and organizing workshops. Feel free to connect and start a conversation.
+I am **Aman Ranjan Verma**, a **Senior Data Engineer** at [**QuillBot**](https://www.linkedin.com/company/quillbot) with **6+ years** of experience building production-grade data platforms and pipelines (ex-**Flipkart**, ex-**Sigmoid**).
 
-SKILLS: `Python` `PySpark` `AWS Cloud` `Linux` `SQl` `Git` `Data Structure & Algorithm` `NoSQL` `ETL` `Data pipeline` `Data Warehousing`
+**Impact snapshot**
+- Built and scaled platform capabilities for event tracking, governance, and analytics use cases.
+- Architected backend services and data workflows with low-latency performance (p99 < 30 ms, 500+ QPS).
+- Promoted within 1 year at Flipkart for ownership and delivery in high-impact fintech initiatives.
+
+Gold Medalist (B.Tech), IIIT Senapati Manipur · MBA, IIM Bodh Gaya ('27).
+
+I also contribute through technical writing and mentoring in data engineering.
+
+SKILLS: `Python` `SQL` `Spark` `Airflow` `DBT` `ETL/ELT` `Streaming` `Iceberg` `Data Warehousing` `AWS` `GCP` `NoSQL` `Docker` `Kubernetes` `CI/CD` `APIs` `Scala` `Go` `MLOps`
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/ar-verma/)
 [![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat&logo=hackerrank&logoColor=white&color=40b000)](https://www.hackerrank.com/aman_ranjanverma)
