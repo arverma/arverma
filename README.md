@@ -13,11 +13,18 @@ Gold Medalist (B.Tech), IIIT Manipur · MBA, IIM Bodh Gaya ('27).
 
 I also contribute through technical writing and mentoring in data engineering.
 
+I build data platforms. Then I write about what works. More at [arverma.dev](https://arverma.dev).
+
+**Things I've built**
+- [ConText Editor](https://editor.arverma.dev): a free Markdown editor that runs in your browser and keeps notes on your device. [Source](https://github.com/arverma/ConTextEditor)
+- [Bihar Police Notebook](https://bpdiary.arverma.dev): write Hindi letters and FIR case diaries in Hinglish, in the browser. [Source](https://github.com/arverma/Bihar-Police-Notebook)
+- [Towards Data Engineering](https://tde.arverma.dev): the Medium publication I run for data engineers. Write or edit with us.
+
 SKILLS: `Python` `SQL` `Spark` `Airflow` `DBT` `ETL/ELT` `Streaming` `Iceberg` `Data Warehousing` `AWS` `GCP` `NoSQL` `Docker` `Kubernetes` `CI/CD` `APIs` `Scala` `Go` `MLOps`
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/ar-verma/)
 [![Github Gist](https://img.shields.io/badge/github-gist-lightgrey)](https://gist.github.com/arverma)
-[![Visitor count](https://img.shields.io/badge/Homepage-Resume-blue)](https://sites.google.com/view/arverma/home)
+[![Website](https://img.shields.io/badge/Website-arverma.dev-blue)](https://arverma.dev)
 
 
 <details><summary><b>[MEDIUM] Blog Posts </b></summary>
